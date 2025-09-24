@@ -5,4 +5,4 @@ It is fully responsive, optimized for mobile devices, and designed to provide a 
 The project integrates Three.js to deliver advanced 3D elements and interactive visuals. With engaging animations and seamless performance, 
 it creates a dynamic presentation of work and skills. This portfolio highlights creativity and technical expertise in building cutting-edge web applications.
 
-![image alt]()
+![image alt](https://github.com/usmanwarisalizia/3d_Portfolio_Website/blob/6c269ef2ac9771206972d6d59e03dc87f11e91df/3dportfolio.png)
